@@ -27,7 +27,7 @@ members = [
   "tools/build-templated-pages",
   "tools/build-wasm-example",
   "tools/example-showcase",
-  "errors",
+  "errors", "bevy_learning", "bevy_rythim",
 ]
 
 [workspace.lints.clippy]
